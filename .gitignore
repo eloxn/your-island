@@ -24,3 +24,10 @@ next-env.d.ts
 /docs/.blume/
 /docs/dist/
 /public/docs/
+
+# Android build artifacts
+*.apk
+.gradle/
+**/build/
+android/local.properties
+

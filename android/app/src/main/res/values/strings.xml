@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IslandCN</string>
+    <string name="accessibility_service_name">IslandCN Dynamic Island Service</string>
+    <string name="accessibility_service_description">Powers fluid Dynamic Island animations directly over your camera punch-hole, responding to media, charging, and system alerts.</string>
+    <string name="notification_listener_name">IslandCN Notification &amp; Media Hub</string>
+</resources>
